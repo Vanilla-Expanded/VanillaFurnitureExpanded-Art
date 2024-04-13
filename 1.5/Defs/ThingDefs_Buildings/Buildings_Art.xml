@@ -534,6 +534,7 @@
       <WoodLog>5</WoodLog>
     </costList>
     <building>
+	  <supportsWallAttachments>true</supportsWallAttachments>
       <isInert>true</isInert>
       <ai_chillDestination>false</ai_chillDestination>
       <blueprintGraphicData>
