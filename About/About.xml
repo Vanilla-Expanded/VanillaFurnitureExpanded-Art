@@ -24,6 +24,9 @@
 			<downloadUrl>https://github.com/Vanilla-Expanded/VanillaExpandedFramework</downloadUrl>
 		</li>
 	</modDependencies>
+	<loadAfter>
+		<li>OskarPotocki.VanillaFactionsExpanded.Core</li>
+	</loadAfter>
 	<packageId>VanillaExpanded.VFEArt</packageId>
     <description>Vanilla Furniture Expanded - Art module is something long overdue. Being an artist, I struggled to comprehend why the only type of sculptures we can make are small, large or grand artworks on a tiny pedestal. It made Artistic skill pretty much undesirable. Come on, how many times have you said to yourself “Oh crikey, that’s another pawn that can only do art”? 
 
