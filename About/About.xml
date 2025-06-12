@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-
 <ModMetaData>
 	<name>Vanilla Furniture Expanded - Art</name>
 	<author>Oskar Potocki, Sarg Bjornson</author>
-	<url></url>
-    <supportedVersions>	
-		<li>1.3</li>
+	<url/>
+	<supportedVersions>
 		<li>1.4</li>
 		<li>1.5</li>
-    </supportedVersions>
+		<li>1.6</li>
+	</supportedVersions>
 	<modIconPath IgnoreIfNoMatchingField="True">UI/VELogo</modIconPath>
 	<modDependencies>
 		<li>
@@ -25,15 +24,10 @@
 		</li>
 	</modDependencies>
 	<loadAfter>
-		<li>Ludeon.RimWorld</li>
-		<li>Ludeon.RimWorld.Royalty</li>
-		<li>Ludeon.RimWorld.Ideology</li>
-		<li>Ludeon.RimWorld.Biotech</li>
-		<li>brrainz.harmony</li>
 		<li>OskarPotocki.VanillaFactionsExpanded.Core</li>
 	</loadAfter>
 	<packageId>VanillaExpanded.VFEArt</packageId>
-    <description>Vanilla Furniture Expanded - Art module is something long overdue. Being an artist, I struggled to comprehend why the only type of sculptures we can make are small, large or grand artworks on a tiny pedestal. It made Artistic skill pretty much undesirable. Come on, how many times have you said to yourself “Oh crikey, that’s another pawn that can only do art”? 
+	<description>Vanilla Furniture Expanded - Art module is something long overdue. Being an artist, I struggled to comprehend why the only type of sculptures we can make are small, large or grand artworks on a tiny pedestal. It made Artistic skill pretty much undesirable. Come on, how many times have you said to yourself “Oh crikey, that’s another pawn that can only do art”? 
 
 A lot of people requested this mod on my Patreon so it’s about time I deliver. With this mod, your colony can create simple pottery from neolithic times, allowing you to gain some silver on the side to kickstart your base into the medieval era. Several new pieces of sculptures are available by the likes of small, large and grand statues, wall reliefs, decorative pillars and plinths that act both as an artwork and a shelf.
 

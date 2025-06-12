@@ -46,7 +46,7 @@
 				<compClass>CompPowerTrader</compClass>
 				<basePowerConsumption>50</basePowerConsumption>
 			</li>
-			<li Class="VanillaFurnitureExpanded.CompProperties_SpawnOtherBuildingWhenPowered">
+			<li Class="VEF.Buildings.CompProperties_SpawnOtherBuildingWhenPowered">
 				<defOfBuildingToSpawn>VFE_HologramOn</defOfBuildingToSpawn>
 				<tickRaresToCheck>1</tickRaresToCheck>
 			</li>
@@ -131,7 +131,7 @@
 			<li>
 				<compClass>CompQuality</compClass>
 			</li>
-			<li Class="VanillaFurnitureExpanded.CompProperties_SelectBuildingBehind">
+			<li Class="VEF.Buildings.CompProperties_SelectBuildingBehind">
 				<buildingToSelect>HologramBase</buildingToSelect>
 				<commandButtonImage>Buildings/Art/Hologram_Off</commandButtonImage>
 				<commandButtonText>VFEArt_SelectHologramText</commandButtonText>

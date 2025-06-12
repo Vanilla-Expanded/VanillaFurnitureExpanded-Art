@@ -3,7 +3,7 @@
 
   <ThoughtDef>
     <defName>VFE_ArchotechSculptureImprint</defName>
-    <workerClass>VanillaFurnitureExpanded.ThoughtWorker_ThoughtFromNearbyThingDef</workerClass>
+    <workerClass>VEF.Buildings.ThoughtWorker_ThoughtFromNearbyThingDef</workerClass>
     <effectMultiplyingStat>PsychicSensitivity</effectMultiplyingStat>
     <stages>
       <li>
@@ -13,7 +13,7 @@
       </li>
     </stages>
     <modExtensions>
-      <li Class="VanillaFurnitureExpanded.ThoughtGiverByProximityDefExtension">
+      <li Class="VEF.Buildings.ThoughtGiverByProximityDefExtension">
         <ThingToGiveThought>VFE_ArchotechSculpture</ThingToGiveThought>
         <DistanceToGiveThought>15</DistanceToGiveThought>
       </li>
