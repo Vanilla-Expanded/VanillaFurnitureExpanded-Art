@@ -18,6 +18,7 @@
 			<Mass>1</Mass>
 			<Beauty>20</Beauty>
 			<WorkToMake>10000</WorkToMake>
+			<StyleDominance MayRequire="Ludeon.RimWorld.Ideology">10</StyleDominance>
 		</statBases>
 		<comps Inherit="False">
 			<li>
@@ -117,6 +118,7 @@
 			<Mass>2</Mass>
 			<Beauty>50</Beauty>
 			<WorkToMake>18000</WorkToMake>
+			<StyleDominance MayRequire="Ludeon.RimWorld.Ideology">10</StyleDominance>
 		</statBases>
 		<stuffCategories>
 			<li>Metallic</li>
@@ -146,6 +148,7 @@
 			<Mass>5</Mass>
 			<Beauty>50</Beauty>
 			<WorkToMake>18000</WorkToMake>
+			<StyleDominance MayRequire="Ludeon.RimWorld.Ideology">10</StyleDominance>
 		</statBases>
 		<stuffCategories>
 			<li>Metallic</li>
@@ -175,6 +178,7 @@
 			<Mass>10</Mass>
 			<Beauty>100</Beauty>
 			<WorkToMake>30000</WorkToMake>
+			<StyleDominance MayRequire="Ludeon.RimWorld.Ideology">20</StyleDominance>
 		</statBases>
 		<stuffCategories>
 			<li>Metallic</li>
@@ -204,6 +208,7 @@
 			<Beauty>240</Beauty>
 			<Mass>25</Mass>
 			<WorkToMake>65000</WorkToMake>
+			<StyleDominance MayRequire="Ludeon.RimWorld.Ideology">40</StyleDominance>
 		</statBases>
 		<stuffCategories>
 			<li>Metallic</li>
@@ -234,6 +239,7 @@
 			<Beauty>470</Beauty>
 			<Mass>25</Mass>
 			<WorkToMake>100000</WorkToMake>
+			<StyleDominance MayRequire="Ludeon.RimWorld.Ideology">50</StyleDominance>
 		</statBases>
 		<altitudeLayer>Building</altitudeLayer>
 		<passability>Impassable</passability>
@@ -269,6 +275,7 @@
 			<Beauty>170</Beauty>
 			<Mass>40</Mass>
 			<WorkToMake>80000</WorkToMake>
+			<StyleDominance MayRequire="Ludeon.RimWorld.Ideology">30</StyleDominance>
 		</statBases>
 		<altitudeLayer>Building</altitudeLayer>
 		<passability>Impassable</passability>
@@ -309,6 +316,7 @@
 			<Beauty>20</Beauty>
 			<Mass>10</Mass>
 			<WorkToMake>30000</WorkToMake>
+			<StyleDominance MayRequire="Ludeon.RimWorld.Ideology">20</StyleDominance>
 		</statBases>
 		<altitudeLayer>Building</altitudeLayer>
 		<passability>Impassable</passability>
@@ -351,6 +359,7 @@
 			<Mass>14</Mass>
 			<Beauty>150</Beauty>
 			<WorkToMake>40000</WorkToMake>
+			<StyleDominance MayRequire="Ludeon.RimWorld.Ideology">30</StyleDominance>
 		</statBases>
 		<stuffCategories>
 			<li>Metallic</li>
@@ -385,6 +394,7 @@
 			<Mass>5</Mass>
 			<Beauty>50</Beauty>
 			<WorkToMake>18000</WorkToMake>
+			<StyleDominance MayRequire="Ludeon.RimWorld.Ideology">10</StyleDominance>
 		</statBases>
 		<size>(1,1)</size>
 		<building>
@@ -446,6 +456,7 @@
 			<Beauty>50</Beauty>
 			<WorkToMake>10000</WorkToMake>
 			<Flammability>1.0</Flammability>
+			<StyleDominance MayRequire="Ludeon.RimWorld.Ideology">10</StyleDominance>
 		</statBases>
 		<size>(1,1)</size>
 		<fertility>0.95</fertility>
